@@ -1,4 +1,4 @@
-package io.mosip.mobileVerifier.dto;
+package src.main.java.io.mosip.mobile.verifier.dto;
 
 public class MobileVerifierResponseDto {
 

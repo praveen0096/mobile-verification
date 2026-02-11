@@ -1,4 +1,4 @@
-package io.mosip.mobileVerifier.exception;
+package src.main.java.io.mosip.mobile.verifier.exception;
 
 /**
  * Mobile Verifier Error Codes
